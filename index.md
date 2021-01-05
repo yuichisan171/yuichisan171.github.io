@@ -5,10 +5,36 @@
 
 ## Profile
 - ゆういちさん  
-You can use the [editor on GitHub](https://github.com/yuichisan171/yuichisan171.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 - 1994.1.20(26)  
 - エンジニアを目指す前は、事務を8年勤めていました。  
-- HTML5 / CSS3 / Ruby / JavaScript / Node.js / Ruby on Rails / SQL / AWS(EC2,S3) / アジャイル開発 / ウォーターフォール開発  
 
-## Link
-[GitHub](https://github.com/yuichisan171), [Twitter](https://twitter.com/yuichisan171), [Qiita](https://qiita.com/yuichisan65)
+# Skills
+- OS
+  Windows10 / macOS Mojave 10.14.6 / Linux
+- Languages
+  HTML5 / CSS3 / Ruby / JavaScript / SQL / Java
+- Engine, Frameworks
+  Node.js / Ruby on Rails / Vue.js
+- Tool,MiddleWare
+  Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
+- 開発手法
+  アジャイル開発 / ウォーターフォール開発
+- 資格
+  日本漢字能力検定1級 / 実用数学技能検定準2級
+
+# Works
+- [GitHub](https://github.com/yuichisan171)
+- [Qiita](https://qiita.com/yuichisan65)
+- 作品
+  - [Music Quest](https://musicquest.herokuapp.com/)
+
+# Contact
+- [Twitter](https://twitter.com/yuichisan171)
+- [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
+
+# History
+- 2020年10月 [株式会社NJK]()入社
+- 2020年7月 N高等学校入学
+- 2019年5月 [ML株式会社]()入社
+- 2017年3月 平成26年度「日本漢字能力検定 成績優秀者」優秀賞受賞
+- 2012年4月 [DC株式会社]()入社
