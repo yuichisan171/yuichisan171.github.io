@@ -1,5 +1,7 @@
 ![N予備校ロゴ](478b4cf1-private.png)
 
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm9275801/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm9275801">世界の都道府県</a></noscript>
+
 # About
 ゆういちです。　　
 現在、N高生1年生の26歳です。N高ではプログラミング授業でNode.jsを中心としたアプリケーション開発を学習しながら開発しています。　　
