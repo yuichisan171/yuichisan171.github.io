@@ -1,4 +1,4 @@
-![N予備校ロゴ](nyobi_logo.png)
+![N予備校ロゴ](478b4cf1-private.png)
 
 # About
 ゆういちです。　　
