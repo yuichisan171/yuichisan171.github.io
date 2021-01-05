@@ -19,22 +19,27 @@
 # Skills
 - OS
 
-:Windows10 / macOS Mojave 10.14.6 / Linux
+: Windows10 / macOS Mojave 10.14.6 / Linux
+
 - Languages
 
-:HTML5 / CSS3 / Ruby / JavaScript / SQL / Java
+: HTML5 / CSS3 / Ruby / JavaScript / SQL / Java
+
 - Engine, Frameworks
 
-:Node.js / Ruby on Rails / Vue.js
+: Node.js / Ruby on Rails / Vue.js
+
 - Tool,MiddleWare
 
-:Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
+: Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
+
 - 開発手法
 
-:アジャイル開発 / ウォーターフォール開発
+: アジャイル開発 / ウォーターフォール開発
+
 - 資格
 
-:日本漢字能力検定1級 / 実用数学技能検定準2級
+: 日本漢字能力検定1級 / 実用数学技能検定準2級
 
 # Works
 - [GitHub](https://github.com/yuichisan171)
