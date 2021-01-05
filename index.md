@@ -4,6 +4,8 @@
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # About
 ゆういちです。　　
 現在、N高生1年生の26歳です。N高ではプログラミング授業でNode.jsを中心としたアプリケーション開発を学習しながら開発しています。　　
