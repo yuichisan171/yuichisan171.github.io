@@ -1,8 +1,6 @@
 # Profile
-<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px">
+<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px">  
 ゆういちさん / 1994.1.20 / Ruby / Ruby on Rails / JavaScript / Node.js
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Works
 - [GitHub](https://github.com/yuichisan171)
@@ -67,3 +65,6 @@ Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
 - 2012年4月 [DC株式会社]()入社
 　- 庶務・事務
  グループ社員の名刺、永年・定年表彰状、封筒などの印刷業務。
+
+
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
