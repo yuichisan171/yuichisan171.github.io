@@ -1,5 +1,5 @@
 # Profile
-![顔写真](T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg)
+<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px">
 ゆういちさん / 1994.1.20 / Ruby / Ruby on Rails / JavaScript / Node.js
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
