@@ -17,13 +17,13 @@ _Since 2021/01_
 ## [Music Quest](https://musicquest.herokuapp.com/)
 _Since 2020/05_
 
-# About
-ゆういちです。現在、N高生1年生の27歳です。  
-N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を学習しながら開発しています。  
+# 自己紹介
+ゆういちです。現在、Web系エンジニアを目指すN高生1年生の27歳です。  
+N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を1日2時間学習しています。  
 プライベートでは、音楽鑑賞、ジョギング、技術書等の読書と、幅広く活動しております。　　
 
 # Skills
-## 実業務で使用したもの
+## 業務で使用したもの
 - Languages  
 HTML / CSS / JavaScript
 - Engine, Frameworks  
@@ -45,14 +45,8 @@ Node.js / Ruby on Rails / Vue.js
 Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
 - 開発手法  
 アジャイル開発
-- 資格  
-日本漢字能力検定1級 / 実用数学技能検定準2級
 
-# Contact
-- [Twitter](https://twitter.com/yuichisan171)
-- [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
-
-# History
+# 業務経験
 - 2020年1月 N予備校WEBアプリコンテスト2020冬
 - 2020年10月 [株式会社NJK]()入社
   - Vue.js,Nuxt.jsを使用したWebアプリケーション開発
@@ -65,6 +59,12 @@ Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku
 - 2012年4月 [DC株式会社]()入社
 　- 庶務・事務
  グループ社員の名刺、永年・定年表彰状、封筒などの印刷業務。
+ 
+ ## 資格
+日本漢字能力検定1級 / 実用数学技能検定準2級
 
+# Contact
+- [Twitter](https://twitter.com/yuichisan171)
+- [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
