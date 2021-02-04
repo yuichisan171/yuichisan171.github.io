@@ -1,6 +1,7 @@
-# Profile
-<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px">  
-ゆういちさん / 1994.1.20 / Ruby / Ruby on Rails / JavaScript / Node.js
+# 自己紹介
+ゆういちです。現在、Web系エンジニアを目指すN高生1年生の27歳です。  
+N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を1日2時間学習しています。  
+プライベートでは、音楽鑑賞、ジョギング、技術書等の読書と、幅広く活動しております。　
 
 # Works
 - [GitHub](https://github.com/yuichisan171)
@@ -15,12 +16,7 @@ _Since 2021/01_
 _Since 2021/01_
 
 ## [Music Quest](https://musicquest.herokuapp.com/)
-_Since 2020/05_
-
-# 自己紹介
-ゆういちです。現在、Web系エンジニアを目指すN高生1年生の27歳です。  
-N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を1日2時間学習しています。  
-プライベートでは、音楽鑑賞、ジョギング、技術書等の読書と、幅広く活動しております。　　
+_Since 2020/05_　
 
 # Skills
 ## 業務で使用したもの
