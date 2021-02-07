@@ -1,3 +1,14 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TGVBDHLDV3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TGVBDHLDV3');
+</script>
+
 **Contents**
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
 
@@ -8,9 +19,7 @@
     2. [SNS](#sns)
 2. [MyApps](#myapps)
     1. [動画目次アプリ](#動画目次アプリ)
-    2. [予定調整くん](#予定調整くん)
-    3. [Open Processingによる作品](#open-processingによる作品)
-    4. [Music Quest](#music-quest)
+    2. [Music Quest](#music-quest)
 3. [Skill](#skill)
     1. [テクニカルスキル](#テクニカルスキル)
     2. [経歴](#経歴)
@@ -20,7 +29,7 @@
 <!-- /code_chunk_output -->
 
 # Profile
-河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES / 軽度知的障害(障害者手帳有り)  
+河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES
 
 ゆういちです。現在、Web系エンジニアを目指すN高生1年の27歳です。  
 事務職、技術職を経て、現在就職活動中です。  
@@ -44,17 +53,6 @@ N高等学校ではプログラミング授業でNode.jsを中心としたアプ
 [N予備校WEBアプリコンテスト](https://progedu.github.io/webappcontest/2020/winter/entry/index.html)にて、本作品を応募致しました。
 JavaScript / Node.js / Pug / Heroku  
 _Since 2022/02_ [GitHub](https://github.com/yuichisan171/douga-mokuji) [Link](https://arcane-depths-59921.herokuapp.com/posts)
-
-## 予定調整くん
-[![Screenshot from Gyazo](https://gyazo.com/fb5be7833b73430b33016ad0ebd5bacf/raw)](https://i.gyazo.com/fb5be7833b73430b33016ad0ebd5bacf)
-調整さん風アプリです。  
-JavaScript / Node.js / Express / Heroku  
-_Since 2021/01_ [GitHub](https://github.com/yuichisan171/schedule-arranger) [Link](https://calm-atoll-21128.herokuapp.com/)
-
-## Open Processingによる作品
-<iframe src="https://www.openprocessing.org/sketch/1052903/embed/" width="400" height="300"></iframe><br>
-Open Processing / JavaScript<br>
-_Since 2021/01_ <a href="https://www.openprocessing.org/sketch/1052903">Link</a>
 
 ## Music Quest
 [![Screenshot from Gyazo](https://gyazo.com/2869dfe205711fbd7e0ddea759074dcb/raw)](https://gyazo.com/2869dfe205711fbd7e0ddea759074dcb)
