@@ -137,5 +137,5 @@ N STANDRDSにてテーマ「貫徹」のエピソードを応募した内容が�
 # Contact
 [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
 
-[test](./about.html) .
-<a href="./about.html">TEST</a>
+[test](./about.md) .
+<a href="./about.md">TEST</a>
