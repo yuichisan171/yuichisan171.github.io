@@ -26,9 +26,10 @@ N高等学校ではプログラミング授業でNode.jsを中心としたアプ
 プライベートでは、音楽鑑賞、ジョギング、読書などと、幅広く活動しております。
 
 ## 貢献できること
-- 事務処理能力
-- ITスキル
-- スケジュール管理
+- 事務処理能力  
+電話対応 / ExcelやWord,PPTの資料作成
+- スケジュール管理  
+事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組む。
 
 ## SNS
 [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
