@@ -20,8 +20,11 @@
 <!-- /code_chunk_output -->
 
 # Profile
+河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES / 軽度知的障害(障害者手帳有り)  
+
 ゆういちです。現在、Web系エンジニアを目指すN高生1年の27歳です。  
 事務職、技術職を経て、現在就職活動中です。  
+自分のアイデアをプログラミングでアプリケーション化することが好きです。  
 N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を1日2時間学習しています。  
 プライベートでは、音楽鑑賞、ジョギング、読書などと、幅広く活動しております。
 
@@ -78,11 +81,11 @@ AWS(S3) / VSCode / MS(Excel 2016 | Word 2016 | Outlook 2016 | PPT 2013 | teams)
 - OS  
 Windows10 / macOS Mojave 10.14.6 / Linux
 - Languages  
-HTML5 / CSS3 / Ruby / JavaScript / SQL / Java
+HTML / CSS / Ruby 2.5.1 / JavaScript / SQL / Java
 - Frameworks  
-Node.js / Ruby on Rails / Vue.js
+Node.js 10.14.2 / Ruby on Rails 5.2.4.4 / Vue.js
 - Tools  
-Git / MySQL / PostgreSQL / AWS(EC2,S3) / Heroku / VSCode
+Git 2.28.0 / MySQL 5.6.47 / PostgreSQL 10.15 / AWS(EC2,S3) / Heroku / VSCode  
 
 ## 経歴
 
@@ -97,15 +100,15 @@ Vue.js,Nuxt.jsを使用したWebアプリケーション開発支援
 - kintoneとVuje.jsの環境構築調査
 
 技術学習  
-- 基本情報技術者の学習
+- 基本情報技術者試験の学習
 
 
-**2020年7月 学校法人角川ドワンゴ学園N高等学校 入学**  
+**2020年7月 学校法人角川ドワンゴ学園N高等学校普通科ネットコース 入学**  
 - 2020年1月 N予備校WEBアプリコンテスト2020冬
-- Basicプログラム
+- Basicプログラム  
 高校必須科目の学習。
-- Adbancedプログラム
-主にプログラミング授業でNode.jsなどの技術学習。
+- Advancedプログラム  
+学習アプリ「N予備校」から、プログラミング授業でNode.jsなどの技術学習。
 
 **2019年5月 三菱UFJリース株式会社 入社**  
 庶務・事務  
