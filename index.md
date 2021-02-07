@@ -8,6 +8,7 @@
 
   gtag('config', 'G-TGVBDHLDV3');
 </script>
+</head>
 
 **Contents**
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
