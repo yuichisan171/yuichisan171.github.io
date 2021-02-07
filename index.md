@@ -8,11 +8,12 @@ Portfolio</div><br>
 
 1. [Profile](#profile)
     1. [貢献できること](#貢献できること)
+    2. [SNS](#sns)
 2. [MyApps](#myapps)
-    1. [動画目次アプリ](#動画目次アプリhttpsarcane-depths-59921herokuappcomposts)
-    2. [予定調整くん](#予定調整くんhttpscalm-atoll-21128herokuappcom)
-    3. [Open Processingによる作品](#open-processingによる作品httpswwwopenprocessingorgsketch1052903)
-    4. [Music Quest](#music-questhttpsmusicquestherokuappcom)
+    1. [動画目次アプリ](#動画目次アプリ)
+    2. [予定調整くん](#予定調整くん)
+    3. [Open Processingによる作品](#open-processingによる作品)
+    4. [Music Quest](#music-quest)
 3. [Skill](#skill)
     1. [テクニカルスキル](#テクニカルスキル)
     2. [経歴](#経歴)
@@ -32,30 +33,33 @@ N高等学校ではプログラミング授業でNode.jsを中心としたアプ
 - ITスキル
 - スケジュール管理
 
+## SNS
+[GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
+
 # MyApps
-## [動画目次アプリ](https://arcane-depths-59921.herokuapp.com/posts)
+## 動画目次アプリ
 [![Screenshot from Gyazo](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c/raw)](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c)
 動画と目次を投稿し、目次職人の支援および視聴者が目的の映像をすぐ探せるようにするアプリです。
 [N予備校WEBアプリコンテスト](https://progedu.github.io/webappcontest/2020/winter/entry/index.html)にて、本作品を応募致しました。
 JavaScript / Node.js / Pug / Heroku
-_Since 2022/02_ [GitHub](https://github.com/yuichisan171/douga-mokuji)
+_Since 2022/02_ [GitHub](https://github.com/yuichisan171/douga-mokuji) [Link](https://arcane-depths-59921.herokuapp.com/posts)
 
-## [予定調整くん](https://calm-atoll-21128.herokuapp.com/)
+## 予定調整くん
 [![Screenshot from Gyazo](https://gyazo.com/fb5be7833b73430b33016ad0ebd5bacf/raw)](https://i.gyazo.com/fb5be7833b73430b33016ad0ebd5bacf)
 調整さん風アプリです。
 JavaScript / Node.js / Express / Heroku
-_Since 2021/01_ [GitHub](https://github.com/yuichisan171/schedule-arranger)
+_Since 2021/01_ [GitHub](https://github.com/yuichisan171/schedule-arranger) [Link](https://calm-atoll-21128.herokuapp.com/)
 
-## [Open Processingによる作品](https://www.openprocessing.org/sketch/1052903)
+## Open Processingによる作品
 <iframe src="https://www.openprocessing.org/sketch/1052903/embed/" width="400" height="300"></iframe><br>
 Open Processing / JavaScript<br>
-_Since 2021/01_
+_Since 2021/01_ <a href="https://www.openprocessing.org/sketch/1052903">Link</a>
 
-## [Music Quest](https://musicquest.herokuapp.com/)
+## Music Quest
 [![Screenshot from Gyazo](https://gyazo.com/2869dfe205711fbd7e0ddea759074dcb/raw)](https://gyazo.com/2869dfe205711fbd7e0ddea759074dcb)
 様々なシチュエーションに合わせた曲を探し、要望に応えて曲を提供するアプリ。
 Ruby / HTML / CSS / Heroku
-_Since 2020/05_ [GitHub](https://github.com/yuichisan171/musicquest)
+_Since 2020/05_ [GitHub](https://github.com/yuichisan171/musicquest) [Link](https://musicquest.herokuapp.com/)
 
 # Skill
 
@@ -124,5 +128,3 @@ N STANDRDSにてテーマ「貫徹」のエピソードを応募した内容が�
 
 # Contact
 [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/yuichisan171?ref_src=twsrc%5Etfw">Tweets by yuichisan171</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
