@@ -1,6 +1,3 @@
-<div style="text-align:center;font-size:3rem;font-weight:bold;">Yuuichi Kono<br>
-Portfolio</div><br>
-
 **Contents**
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
 
@@ -23,9 +20,8 @@ Portfolio</div><br>
 <!-- /code_chunk_output -->
 
 # Profile
-<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px"><br>
 ゆういちです。現在、Web系エンジニアを目指すN高生1年の27歳です。
-事務職、SES系の技術職を経て、現在就職活動中です。
+事務職、技術職を経て、現在就職活動中です。
 N高等学校ではプログラミング授業でNode.jsを中心としたアプリケーション開発を1日2時間学習しています。
 プライベートでは、音楽鑑賞、ジョギング、読書などと、幅広く活動しております。
 
