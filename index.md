@@ -29,8 +29,9 @@
 
 <!-- /code_chunk_output -->
 
-# Profile
-河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES
+# Profile  
+<img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px"><br>
+河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES  
 
 ゆういちです。現在、Web系エンジニアを目指すN高生1年の27歳です。  
 事務職、技術職を経て、現在就職活動中です。  
@@ -135,3 +136,5 @@ N STANDRDSにてテーマ「貫徹」のエピソードを応募した内容が�
 
 # Contact
 [Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
+
+[test](https://yuichisan171.github.io/docs/about)
