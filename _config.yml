@@ -1,3 +1,22 @@
 theme: jekyll-theme-minimal
 title: Yuichi Kono Portfolio<br><br><img src="T0HTW2RH7-U017Q26GRLH-efd1dac535e4-512.jpeg" width="250px" height="250px">
-description: 河野雄一のポートフォリオ<br> 1994.1.20 / 事務職 / Ruby / Node.js<br> [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisan65) (書き込み中)
+description: 河野雄一のポートフォリオ<br>
+  1994.1.20 / 事務職 / Ruby / Node.js<br>
+  [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisan65) (書き込み中)<br>
+  <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=true} -->
+
+  <!-- code_chunk_output -->
+
+  1. [Profile](#profile)
+  2. [MyApps](#myapps)
+      1. [動画目次アプリ](#動画目次アプリhttpsarcane-depths-59921herokuappcomposts)
+      2. [予定調整くん](#予定調整くんhttpscalm-atoll-21128herokuappcom)
+      3. [Open Processingによる作品サンプル](#open-processingによる作品サンプル)
+      4. [Music Quest](#music-questhttpsmusicquestherokuappcom)
+  3. [History](#history)
+      1. [Skills](#skills)
+      2. [経歴・学歴](#経歴学歴)
+      3. [資格](#資格)
+  4. [Contact](#contact)
+
+  <!-- /code_chunk_output -->
