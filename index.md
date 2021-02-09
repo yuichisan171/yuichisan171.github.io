@@ -35,7 +35,7 @@
 河野雄一(こうの ゆういち) / 1994.1.20 / 漢字が得意 / 読書 / プログラミング / 靴磨き / 事務職 / SES  
 
 東京ゲームショウのVRゲームを体験したことをきっかけにエンジニアへの道を決意しました。  
-自分のアイデアをアプリケーション化することが好きで、その手段としてプログラミングを始めました。  
+自分のアイデアをアプリケーションにすることが好きで、その手段としてプログラミングを始めました。  
 プライベートでは、音楽鑑賞、ジョギング、読書などと、幅広く活動しております。  
 
 ## このさきやってみたいこと  
@@ -57,7 +57,8 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 ## 動画目次アプリ
 [![Screenshot from Gyazo](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c/raw)](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c)
 動画と目次を投稿し、目次職人の支援および視聴者が目的の映像をすぐ探せるようにするアプリです。  
-[N予備校WEBアプリコンテスト](https://progedu.github.io/webappcontest/2020/winter/entry/index.html)にて、本作品を応募致しました。
+[N予備校WEBアプリコンテスト](https://progedu.github.io/webappcontest/2020/winter/entry/index.html)にて、本作品を応募致しました。  
+ユーザーネーム、パスワードはGitHubのREADMEにて記載。
 JavaScript / Node.js / Pug / Heroku  
 _Since 2022/02_ [GitHub](https://github.com/yuichisan171/douga-mokuji) [Link](https://arcane-depths-59921.herokuapp.com/posts)
 
@@ -140,6 +141,6 @@ N STANDRDSにてテーマ「貫徹」のエピソードを応募した内容が�
 [N高新聞 N STANDARDS-貫徹-N高新聞 2020年度 - 第82号2020年12月刊](https://sites.google.com/nnn.ed.jp/n-newspaper2019/%E7%AC%AC82%E5%8F%B72020%E5%B9%B412%E6%9C%88%E5%88%8A?pli=1&authuser=2#h.h84ebi89n3hj)
 
 # Contact
-[Mail](mailto:yuuichi_20n2100080@nnn.ed.jp)
+[Mail](mailto:t65.kouno.yuuichi@gmail.com)
 
 ※当サイトにおける個人情報の取り扱いについては、[プライバシーポリシー](./about.md)ページをご確認ください。
