@@ -58,7 +58,7 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 [![Screenshot from Gyazo](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c/raw)](https://gyazo.com/57bba5e009b4c9b66a05afd948f16b1c)
 動画と目次を投稿し、目次職人の支援および視聴者が目的の映像をすぐ探せるようにするアプリです。  
 [N予備校WEBアプリコンテスト](https://progedu.github.io/webappcontest/2020/winter/entry/index.html)にて、本作品を応募致しました。  
-ユーザーネーム、パスワードはGitHubのREADMEにて記載。
+ユーザーネーム、パスワードはGitHubのREADMEにて記載。  
 JavaScript / Node.js / Pug / Heroku  
 _Since 2022/02_ [GitHub](https://github.com/yuichisan171/douga-mokuji) [Link](https://arcane-depths-59921.herokuapp.com/posts)
 
