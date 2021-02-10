@@ -46,9 +46,10 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 
 ## 貢献できること
 - 事務処理能力  
-電話対応 / ExcelやWord,PPTの資料作成
+電話対応 / ExcelやWord,PPTの資料作成  
+
 - スケジュール管理  
-事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組む。
+事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組むこと。  
 
 ## SNS
 [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
@@ -92,6 +93,7 @@ HTML / CSS / Ruby 2.5.1 / JavaScript / SQL / Java
 Node.js 10.14.2 / Ruby on Rails 5.2.4.4 / Vue.js
 - Tools  
 Git 2.28.0 / MySQL 5.6.47 / PostgreSQL 10.15 / AWS(EC2,S3) / Heroku / VSCode  
+※技術情報を確認しながらのコーディング可能レベル  
 
 ## 経歴
 
