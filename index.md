@@ -51,6 +51,9 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 - スケジュール管理  
 事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組むこと。  
 
+- PCスキル  
+Windows10とMicrosoft社の製品を使用した実務経験があります。  
+
 ## SNS
 [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
 
@@ -109,7 +112,6 @@ Vue.js,Nuxt.jsを使用したWebアプリケーション開発支援
 
 技術学習  
 - 基本情報技術者試験の学習
-
 
 **2020年7月 学校法人角川ドワンゴ学園N高等学校普通科ネットコース 入学**  
 - 2020年1月 N予備校WEBアプリコンテスト2020冬
