@@ -46,13 +46,16 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 
 ## 貢献できること
 - 事務処理能力  
-電話対応 / ExcelやWord,PPTの資料作成  
-
-- スケジュール管理  
-事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組むこと。  
+電話対応(受電と架電ともに可能)  
 
 - PCスキル  
 Windows10とMicrosoft社の製品を使用した実務経験があります。  
+  - Excel  
+    SUM関数やデータのソートを使用した表計算、簡単なマニュアル作成は可能。  
+  - Word  
+    簡単な資料作成が可能(マニュアル、レポート、議事録)  
+  - PowerPoint  
+    スライド作成、文字や画像の調整などの簡単な操作が可能。  
 
 ## SNS
 [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
