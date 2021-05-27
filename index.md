@@ -46,9 +46,16 @@ IT業界は未経験で未熟なところは多々ありますが、基本的な
 
 ## 貢献できること
 - 事務処理能力  
-電話対応 / ExcelやWord,PPTの資料作成
-- スケジュール管理  
-事務職・技術職の経験から計画的に進められるように作業工程の進捗を定期的に声かけや振り返りをチームで取り組む。
+電話対応(受電と架電ともに可能)  
+
+- PCスキル  
+Windows10とMicrosoft社の製品を使用した実務経験があります。  
+  - Excel  
+    SUM関数やデータのソートを使用した表計算、簡単なマニュアル作成は可能。  
+  - Word  
+    簡単な資料作成が可能(マニュアル、レポート、議事録)  
+  - PowerPoint  
+    スライド作成、文字や画像の調整などの簡単な操作が可能。  
 
 ## SNS
 [GitHub](https://github.com/yuichisan171) / [Qiita](https://qiita.com/yuichisasn65) / [Twitter](https://twitter.com/yuichisan171)
@@ -80,7 +87,9 @@ HTML / CSS / JavaScript
 - Frameworks  
 Vue.js / Nuxt.js
 - Tools  
-AWS(S3) / VSCode / MS(Excel 2016 | Word 2016 | Outlook 2016 | PPT 2013 | teams)
+AWS(S3) / VSCode / MS(Excel 2016 | Word 2016 | Outlook 2016 | PPT 2013 | teams)  
+  
+※技術情報を確認しながらのコーディング可能レベル
 
 **個人で使用した技術**
 
@@ -92,6 +101,8 @@ HTML / CSS / Ruby 2.5.1 / JavaScript / SQL / Java
 Node.js 10.14.2 / Ruby on Rails 5.2.4.4 / Vue.js
 - Tools  
 Git 2.28.0 / MySQL 5.6.47 / PostgreSQL 10.15 / AWS(EC2,S3) / Heroku / VSCode  
+  
+※技術情報を確認しながらのコーディング可能レベル
 
 Languages  
 |技術|レベル|
@@ -134,12 +145,9 @@ Tools
 Vue.js,Nuxt.jsを使用したWebアプリケーション開発支援  
 各機能のスケジュール管理、単体テストを担当。(実装は協力会社が担当)
 
-調査業務  
-- kintoneとVuje.jsの環境構築調査
-
-技術学習  
+その他業務  
+- kintoneとVuje.jsによる環境構築の調査  
 - 基本情報技術者試験の学習
-
 
 **2020年7月 学校法人角川ドワンゴ学園N高等学校普通科ネットコース 入学**  
 - 2020年1月 N予備校WEBアプリコンテスト2020冬
